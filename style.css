@@ -2,3 +2,38 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.header-top{
+    background-color: #fff;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 60px
+}
+h2{
+    color: #F78869;
+    font-size: 40px;
+}
+p{
+    margin-bottom: 50px;
+}
+.hire-me{
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    color: #fff;
+}
+
+.download-cv{
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
