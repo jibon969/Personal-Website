@@ -3,6 +3,9 @@ body{
     padding: 0;
 }
 
+/*=================
+Header top
+====================*/
 .header-top{
     background-color: #fff;
     overflow: hidden;
@@ -40,6 +43,9 @@ p{
     border-radius: 5px;
 }
 
+/*=================
+    Work 
+====================*/
 #work{
     background-color: #F8F9FC;
     overflow: hidden;
@@ -48,7 +54,6 @@ p{
 
 .project-area{
     margin: 130px;
-
 }
 
 .title{
@@ -62,6 +67,9 @@ p{
    color: black;
 }
 
+/*=================
+    project 
+====================*/
 .project{
     margin-left: 2%;
     padding-left: 4%;
